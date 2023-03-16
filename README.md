@@ -1,5 +1,5 @@
 # 2023-Kaggle
-## Competition: OTTO – Multi-Objective Recommender System
+## Competition: OTTO – Multi-Objective Recommender System (review)
 * File: OTTO-code.zip
 * Competition Type: Recommendation system 
 * Code has been executed and submitted (Added File)
