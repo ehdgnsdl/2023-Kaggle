@@ -3,7 +3,7 @@
 * File: IceCube-code.zip
 * Competition Subject: Reconstruct the direction of neutrinos from the Universe to the South Pole
 
-# 팀원 및 대회 결과
+## 팀원 및 대회 결과
 
 **junseonglee11 :**  [https://www.kaggle.com/junseonglee11](https://www.kaggle.com/junseonglee11)
 
