@@ -9,9 +9,10 @@
 
 **Ayaan Jang     :**  [https://www.kaggle.com/ayaanjang](https://www.kaggle.com/ayaanjang)
 
-**결과:** 20 위 / 812 팀 (silver medal, 상위 3%)
+**결과:** 20 위 / 812 팀 ( 🥈silver medal, 상위 3%)
 
 ## Summary
+![Untitled](https://github.com/ehdgnsdl/2023-Kaggle/assets/87434001/7b969636-5592-42a9-80e8-bf4909e39350)
 
 **Inference Notebook:**
 
