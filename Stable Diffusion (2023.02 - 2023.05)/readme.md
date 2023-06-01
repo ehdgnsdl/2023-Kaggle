@@ -1,7 +1,7 @@
 # 2023-Kaggle
 ## Competition: Stable Diffusion - Image to Prompts
 * Competition Subject: Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images
-
+* Inference Code: final-clip-knnregression-clip-vit-clip22.ipynb
 ## 팀원 및 대회 결과
 
 **junseonglee11 :**  [https://www.kaggle.com/junseonglee11](https://www.kaggle.com/junseonglee11)
@@ -26,10 +26,6 @@ Prompt Prediction Challenge: An Overview of the Complete Process
     - Clip-ViT-large-patch14
     - Clip-ViT-large-patch16_384
     - CLIP+BLIP (CLIP interrogator)
-
-**Inference code**
-* final-clip-knnregression-clip-vit-clip22.ipynb
-
 
 ## Subject
 - 생성된 이미지가 주어진 텍스트 프롬프트를 예측할 수 있는 모델을 만드는 것.
