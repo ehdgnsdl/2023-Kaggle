@@ -1,7 +1,8 @@
 # 2023-Kaggle
 ## Competition: IceCube - Neutrinos in Deep Ice
-* File: IceCube-code.zip
-* Competition Subject: Reconstruct the direction of neutrinos from the Universe to the South Pole
+* **Competition Subject:** Reconstruct the direction of neutrinos from the Universe to the South Pole
+  * Link: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
+* **File:** IceCube-code.zip
 
 ## 팀원 및 대회 결과
 
