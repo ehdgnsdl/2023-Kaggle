@@ -16,15 +16,12 @@
 ![Untitled](https://github.com/ehdgnsdl/2023-Kaggle/assets/87434001/7b969636-5592-42a9-80e8-bf4909e39350)
 
 **Inference Notebook:**
-
 [https://www.kaggle.com/code/ayaanjang/20th-tensorflow-lstm-model-inference-merged](https://www.kaggle.com/code/ayaanjang/20th-tensorflow-lstm-model-inference-merged)
 
 **Train Notebook:**
-
 [https://www.kaggle.com/code/junseonglee11/20th-tensorflow-tfrecord-tpu-lstm-line-fit-train](https://www.kaggle.com/code/junseonglee11/20th-tensorflow-tfrecord-tpu-lstm-line-fit-train)
 
 **Dataset (TFRecord) Notebook**:
-
 [https://www.kaggle.com/code/junseonglee11/icecube-data-to-tfrecord-v2-1](https://www.kaggle.com/code/junseonglee11/icecube-data-to-tfrecord-v2-1)
 
 ## Subject
