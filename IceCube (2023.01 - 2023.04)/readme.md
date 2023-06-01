@@ -31,4 +31,4 @@
 - 남극 얼음 속 깊은 곳에서 우주를 관측하는 "IceCube" 탐지기의 데이터를 기반으로 모델을 개발할 것
 
 ## More Detail
-https://steadfast-shaker-35b.notion.site/2023-01-2023-04-IceCube-5e62102024b3480f96f0bf0497cd0a9a
+https://steadfast-shaker-35b.notion.site/2023-01-2023-04-IceCube-b4dd0a69b7964aa996549b592585dafc
