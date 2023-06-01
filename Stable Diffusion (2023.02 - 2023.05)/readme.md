@@ -1,7 +1,8 @@
 # 2023-Kaggle
 ## Competition: Stable Diffusion - Image to Prompts
-* Competition Subject: Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images
-* Inference Code: final-clip-knnregression-clip-vit-clip22.ipynb
+* **Competition Subject**: Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images
+    * Link: https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts
+* **Inference Code**: final-clip-knnregression-clip-vit-clip22.ipynb
 ## 팀원 및 대회 결과
 
 **junseonglee11 :**  [https://www.kaggle.com/junseonglee11](https://www.kaggle.com/junseonglee11)
